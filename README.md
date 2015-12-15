@@ -1,6 +1,6 @@
 # mvmmm: Multi-view mixed membership models
 
-This if the implementation in R for the posterior inference algorithm for the model presented in 
+This is the implementation in R for the posterior inference algorithm for the model presented in 
 
 'Seppo Virtanen, Mattias Rost, Alistair Morrison, Matthew Chalmers and Mark Girolami. 
 Uncovering smartphone usage patterns with multi-view mixed membership models. 
